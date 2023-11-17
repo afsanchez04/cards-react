@@ -9,7 +9,7 @@ function App() {
       <Card />
       <div style={{display: 'flex', gap: '10px'}}>
         <Header lenguaje="JavaScript" color="yellow" />
-        <Header lenguaje="C++" color="blue" />
+        <Header lenguaje="Premiere" color="blue" />
         <Header lenguaje="After Effects" color="blueviolet" />
       </div>
 
